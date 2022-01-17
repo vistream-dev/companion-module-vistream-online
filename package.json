@@ -1,0 +1,22 @@
+{
+	"name": "vistream",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"ViStream"
+	],
+	"manufacturer": "ViStream.",
+	"product": "Online platform",
+	"shortname": "vistream",
+	"homepage": "https://www.vistream.online",
+	"description": "Streaming platform for events, conferences and more. Provided by ViStream GmbH",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Anton Khatunzev, Philipp Roggan, Paul Eppner",
+	"license": "MIT",
+	"dependencies": {
+		"socket.io-client": "3.1.0"
+	}
+}
