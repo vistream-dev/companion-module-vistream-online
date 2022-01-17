@@ -1,12 +1,14 @@
 {
-	"name": "vistream",
+	"name": "vistream-online",
 	"version": "1.0.0",
 	"api_version": "1.0.0",
 	"keywords": [
-		"ViStream"
+		"ViStream",
+		"streaming",
+		"platform"
 	],
-	"manufacturer": "ViStream.",
-	"product": "Online platform",
+	"manufacturer": "ViStream",
+	"product": "online",
 	"shortname": "vistream",
 	"homepage": "https://www.vistream.online",
 	"description": "Streaming platform for events, conferences and more. Provided by ViStream GmbH",
