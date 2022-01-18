@@ -1,13 +1,14 @@
 ## ViStream·Online Companion module
 
-Allows you to control [ViStream·Online Eventplattform](https://www.vistream.online) from ViStream GmbH.
+Control your livestreaming event on  [https://www.vistream.online](https://www.vistream.online?src=companion) with cuelists.
 
 ### Configuration
 
 - Add the a Cuelist module to your events modules list
 - Open the modules edit section
-- Set up the token and copy the generated API endpoints URI
-- Insert the endpoints URI/Token in the corresponding field in the companion setup
+- Copy the token
+- Insert the token into the corresponding field in the companion setup
+- Click save
 
 ### Available actions
 
@@ -19,5 +20,3 @@ Allows you to control [ViStream·Online Eventplattform](https://www.vistream.onl
 - Stream-out status
 
 ### Available variables
-
-- endpoint_uri with token
